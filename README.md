@@ -2,4 +2,15 @@
 
 The primary code used to generate the result for my master thesis entitled ["Predicting Safe Drug Combinations with Graph Neural Networks"](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-446691).
 
-The new version of the model is currently under development for optimized for ruboust performance. The final pertrained model and dataset will be included in the near future.
+You can find the ready to use pretrained models with more optimized and ruboust performance in the [PSE repository](https://github.com/amanzadi/PSE) . 
+
+## Cite Us
+If you found this repo useful, please cite [my thesis](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-446691):
+```
+@article{amanzadi2021,
+  title={Predicting safe drug combinations with Graph Neural Networks (GNN)},
+  author={Amirhossein Amanzadi},
+  journal={Uppsala University},
+  year={2021}
+}
+```
